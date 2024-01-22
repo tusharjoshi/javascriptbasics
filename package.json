@@ -1,0 +1,13 @@
+{
+  "name": "javascriptbasics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tushar Joshi",
+  "license": "MIT"
+}
